@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editTextContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:hint="Ingrese el contenido del archivo"
+        android:padding="16dp"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextContent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Guardar en Tarjeta SD"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:onClick="saveFile" />
+
+    <Button
+        android:id="@+id/btnViewFiles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnSave"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Ver Archivos"
+        android:padding="16dp"
+        android:textSize="18sp"
+        android:onClick="viewFiles" />
+
+    <ListView
+        android:id="@+id/listViewFiles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnViewFiles"
+        android:layout_marginTop="16dp" />
+
+</RelativeLayout>

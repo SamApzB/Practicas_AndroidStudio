@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivoInterno</string>
+    <string name="ingresa">ingresa</string>
+    <string name="ingrese_texto">Ingrese texto</string>
+    <string name="save">save</string>
+    <string name="load">load</string>
+</resources>

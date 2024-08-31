@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "622469742043",
+    "firebase_url": "https://repositorio02-9e7df-default-rtdb.firebaseio.com",
+    "project_id": "repositorio02-9e7df",
+    "storage_bucket": "repositorio02-9e7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622469742043:android:c9b84c836abc62ecd07bfe",
+        "android_client_info": {
+          "package_name": "com.example.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622469742043-t6cnv5kpnhdrqgovr094rrdaqnqve072.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdnEYo2nyiNsNPy2DRfGCyx5XZ1tQabw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622469742043-t6cnv5kpnhdrqgovr094rrdaqnqve072.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622469742043-6vkcm966aifh65mg6ab6gkhuqhr5vn36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TecMov.smartreply"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622469742043:android:f6d0a08fe447d9e9d07bfe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622469742043-t6cnv5kpnhdrqgovr094rrdaqnqve072.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdnEYo2nyiNsNPy2DRfGCyx5XZ1tQabw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622469742043-t6cnv5kpnhdrqgovr094rrdaqnqve072.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622469742043-6vkcm966aifh65mg6ab6gkhuqhr5vn36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TecMov.smartreply"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622469742043:android:a73cf26846457361d07bfe",
+        "android_client_info": {
+          "package_name": "com.example.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622469742043-t6cnv5kpnhdrqgovr094rrdaqnqve072.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdnEYo2nyiNsNPy2DRfGCyx5XZ1tQabw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622469742043-t6cnv5kpnhdrqgovr094rrdaqnqve072.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622469742043-6vkcm966aifh65mg6ab6gkhuqhr5vn36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "TecMov.smartreply"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

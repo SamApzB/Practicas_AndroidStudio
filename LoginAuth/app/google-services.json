@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622469742043",
+    "firebase_url": "https://repositorio02-9e7df-default-rtdb.firebaseio.com",
+    "project_id": "repositorio02-9e7df",
+    "storage_bucket": "repositorio02-9e7df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622469742043:android:c9b84c836abc62ecd07bfe",
+        "android_client_info": {
+          "package_name": "com.example.loginauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdnEYo2nyiNsNPy2DRfGCyx5XZ1tQabw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
